@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 
 ## Purpose
@@ -13,3 +13,5 @@ https://georgeneves.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by George Neves
+
+### @2019 Run Buddy, Inc
