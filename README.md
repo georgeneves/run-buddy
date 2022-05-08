@@ -1,15 +1,15 @@
 # Run Buddy
 
 
-##Purpose
+## Purpose
 A website that offers fitness training services
 
-##Built With
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##Website
+## Website
 https://georgeneves.github.io/run-buddy/
 
-##Contribution
-Made with <3 by George Neves
+## Contribution
+Made with ❤️ by George Neves
